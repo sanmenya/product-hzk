@@ -1,0 +1,13 @@
+.am-flexbox-item{
+    width: 100%;
+}
+html{
+    background-color: #ccc
+}
+
+.am-wingblank ,.am-wingblank-lg{
+    background-color: pink
+}
+.am-wingblank, .am-wingblank-lg{
+    background-color: mediumvioletred
+}
